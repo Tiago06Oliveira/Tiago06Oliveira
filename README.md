@@ -28,4 +28,3 @@ Driven by a deep curiosity for technology and problem-solving, I thrive on trans
 
 
 ### 📊 STATS
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Tiago06Oliveira&theme=dgithub-dark-dimmed)](https://git.io/streak-stats)
