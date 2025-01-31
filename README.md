@@ -1,47 +1,4 @@
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="right" style="width: 30%;">
-      <a href="#" style="
-        display: inline-block;
-        padding: 10px 15px;
-        background: #00cc44;
-        color: white;
-        text-decoration: none;
-        border-radius: 20px;
-        font-weight: bold;
-        font-family: Arial, sans-serif;">
-        Cloud Networking
-      </a>
-    </td>
-    <td align="center" style="width: 40%;">
-      <a href="#" style="
-        display: inline-block;
-        padding: 12px 20px;
-        background: #007acc;
-        color: white;
-        text-decoration: none;
-        border-radius: 15px;
-        font-weight: bold;
-        font-family: Arial, sans-serif;
-        font-size: 1.1em;">
-        Software Engineer
-      </a>
-    </td>
-    <td align="left" style="width: 30%;">
-      <a href="#" style="
-        display: inline-block;
-        padding: 10px 15px;
-        background: #ff9900;
-        color: white;
-        text-decoration: none;
-        border-radius: 20px;
-        font-weight: bold;
-        font-family: Arial, sans-serif;">
-        Web Developer
-      </a>
-    </td>
-  </tr>
-</table>
+**`Software Engineer`** **`Cloud Networking`** **`Web Developer`**
 
 ## 💻 ABOUT ME
 
