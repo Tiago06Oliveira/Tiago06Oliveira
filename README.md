@@ -1,13 +1,13 @@
 **`Software Engineer`** **`Cloud Networking`** **`Web Developer`**
 
-## 💻 ABOUT ME
+### 💻 ABOUT ME
 
 <p>
 Driven by a deep curiosity for technology and problem-solving, I thrive on transforming complex challenges into elegant, scalable solutions. With expertise in both front-end and back-end development, I am committed to continuous learning, innovation, and delivering high-quality, maintainable systems that drive business success. Whether collaborating with a team or working independently, I bring a proactive mindset, clear communication, and attention to detail. More than just writing code, I aim to create impactful products that enhance user experiences and streamline processes, always focusing on automation, optimization, and leveraging the latest technologies to deliver cutting-edge solutions.
 </p>
 
-## 🛠️ LANGUAGES AND TOOLS
-<p align="center">
+### 🛠️ LANGUAGES AND TOOLS
+<p align="left">
     <img align="center" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
     <img align="center" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" title="C++" />
     <img align="center" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
@@ -23,38 +23,9 @@ Driven by a deep curiosity for technology and problem-solving, I thrive on trans
 </p>
 
 
-## 📝 CERTIFICATIONS
+### 📝 CERTIFICATIONS
+**`CCNA`** **`AWS CERTFICTED`**
 
-<table width="100%" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="right" style="width: 50%;">
-      <a href="#" style="
-        display: inline-block;
-        padding: 10px 15px;
-        background:#00cc44;
-        color: white;
-        text-decoration: none;
-        border-radius: 20px;
-        font-weight: bold;
-        font-family: Arial, sans-serif;">
-        CCNA
-      </a>
-    </td>
-    <td align="left" style="width: 50%;">
-      <a href="#" style="
-        display: inline-block;
-        padding: 10px 15px;
-        background:#00cc44;
-        color: white;
-        text-decoration: none;
-        border-radius: 20px;
-        font-weight: bold;
-        font-family: Arial, sans-serif;">
-        AWS Certified
-      </a>
-    </td>
-  </tr>
-</table>
 
-## 📊 STATS
+### 📊 STATS
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiago&oliveirans=true&theme=gruvbox)
