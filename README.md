@@ -27,5 +27,23 @@ Driven by a deep curiosity for technology and problem-solving, I thrive on trans
 **`CCNA`** **`AWS CERTFICTED`**
 
 
+## 🚀 Current Focus & Goals  
+
+🎯 **Areas of Expertise & Interests:**  
+- 🖥️ Full-Stack Web Development (**React, Node.js, TypeScript**)  
+- ☁️ Cloud & DevOps (**AWS, Docker, CI/CD Pipelines**)  
+- 🔐 Network & Security (**CCNA, LPIC-1, Fortinet**)  
+- ⚡ Automation & Optimization (**Python, Scripting, Infrastructure as Code**)  
+
+📚 **Currently Learning & Improving:**  
+- 🌍 Advanced Networking & Cybersecurity  
+- 🔧 Scalable System Architectures  
+- 🏗️ Cloud Infrastructure & Microservices  
+
+💡 **Looking for Opportunities in:**  
+- 🌐 Web Development & Software Engineering  
+- ☁️ Cloud Solutions & DevOps  
+- 🔍 Open Source & Innovative Projects  
+
 ### 📊 STATS
 [![GitHub Streak](https://streak-stats.demolab.com?user=Tiago06Oliveira&theme=github-dark-dimmed&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly&border=3884B2&background=000000&dates=FFFFFF)](https://git.io/streak-stats)
